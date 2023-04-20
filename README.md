@@ -6,4 +6,4 @@ Estimate age-stratified COVID-19 infection-to-fatality ratio in England
 Please use renv::restore() to restore the project library locally on your machine.
 
 ## Performing prevalence estimation
-You can then run scripts/estimate_prevalence.R to do the analyses; there are loops that can be parallelised.
+You can then run scripts/estimate_prevalence.R to do the analyses; there are loops in that script that can be parallelised.
